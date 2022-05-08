@@ -1,0 +1,11 @@
+.filter {
+  width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.filterInput {
+  width: 90%;
+  margin-left: 10px;
+  padding: 5px;
+}

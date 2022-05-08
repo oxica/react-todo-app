@@ -1,6 +1,6 @@
 .list {
   padding: 10px;
-  width: 600px;
+  max-width: 600px;
   margin: 0px auto;
 }
 
@@ -23,4 +23,13 @@
   margin-top: 0;
   margin-bottom: 0;
   margin-right: 5px;
+}
+
+.buttonDelete {
+  border-radius: 4px;
+  padding: 8px 18px;
+  background-color: rgb(75, 8, 153);
+  color: #fff;
+  font-weight: 400;
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.15);
 }
